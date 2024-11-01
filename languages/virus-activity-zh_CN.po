@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-11 19:37+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "没有找到 %s 的翻译版，请从以下列表中选择其他语言。"
+
+msgid "Missing languages list. Check configuration file."
+msgstr "语言列表缺失，请检查配置文件。"
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "由于检测超过一个病毒活动小部件实例，您不能更改设置"
+
+msgid "Virus Activity"
+msgstr "病毒活动"
+
+msgid "Virus Activity Level"
+msgstr "病毒活动级别"
+
+msgid "Items:"
+msgstr "项目："
+
+msgid "Language:"
+msgstr "语言："
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "Low"
+msgstr "低"
+
+msgid "High"
+msgstr "高"
+
+msgid "Advanced settings"
+msgstr "高级设置"
+
+msgid "Enable no-follow links"
+msgstr "启用不要前往链接"
+
+msgid "Get this widget"
+msgstr "获取这个小工具"
+
+msgid "Most Dangerous Today:"
+msgstr "今日最危险："
+
+msgid "Discovered/Renewed Today:"
+msgstr "最新发现/更新："
+
+msgid "Increased"
+msgstr "提升"
+
+msgid "Show widget information link"
+msgstr "显示小工具信息链接"
+
+msgid "Displays global virus activity level."
+msgstr "显示全球病毒活动级别。"

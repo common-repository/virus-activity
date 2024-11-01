@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-11 19:35+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "%s käännöstä ei löytynyt. Ole hyvä ja valitse toinen kieli alla olevasta listasta"
+
+msgid "Missing languages list. Check configuration file."
+msgstr "Puuttuvien kielien lista. Tarkista konfikuraatio tiedosto"
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "Et voi vaihtaa alla olevia asetuksia koska olet asettanut useamman kuin yhded Virus Aktiviteetti widgetin"
+
+msgid "Virus Activity"
+msgstr "Virus Aktiviteetti"
+
+msgid "Virus Activity Level"
+msgstr "Virus aktiviiteettien taso"
+
+msgid "Items:"
+msgstr "Kohteet:"
+
+msgid "Language:"
+msgstr "Kieli:"
+
+msgid "Title:"
+msgstr "Otsikko:"
+
+msgid "Low"
+msgstr "Alhainen"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "Advanced settings"
+msgstr "Edistyneet asetukset"
+
+msgid "Enable no-follow links"
+msgstr "Salli ei-seurattavat linkit"
+
+msgid "Get this widget"
+msgstr "Hanki tämä widget"
+
+msgid "Most Dangerous Today:"
+msgstr "Kaikkein vaarallisimpia tänään:"
+
+msgid "Discovered/Renewed Today:"
+msgstr "Löydetty/Uusittu Tänään:"
+
+msgid "Increased"
+msgstr "Kasvanut"
+
+msgid "Show widget information link"
+msgstr "Näytä widget tietolinkki"
+
+msgid "Displays global virus activity level."
+msgstr "Näyttää maailmanlaajuisen virus aktiviteetin tason"

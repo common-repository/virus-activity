@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-11 19:36+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "Не найдено перевода для %s. Выберите, пожалуйста, другой язык из списка."
+
+msgid "Missing languages list. Check configuration file."
+msgstr "Отсутствует список языков. Проверьте файл конфигурации."
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "Нельзя изменить настройки внизу, так как обнаружено более одного Действия Вируса"
+
+msgid "Virus Activity"
+msgstr "Действие Вируса"
+
+msgid "Virus Activity Level"
+msgstr "Уровень действия вируса"
+
+msgid "Items:"
+msgstr "Объекты:"
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "Title:"
+msgstr "Название:"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Advanced settings"
+msgstr "Продвинутые настройки"
+
+msgid "Enable no-follow links"
+msgstr "Включить неперехождение по ссылкам"
+
+msgid "Get this widget"
+msgstr "Загрузить виджет"
+
+msgid "Most Dangerous Today:"
+msgstr "Наиболее опасные на текущий момент:"
+
+msgid "Discovered/Renewed Today:"
+msgstr "Недавно обнаруженные/обновленные:"
+
+msgid "Increased"
+msgstr "Увеличена"
+
+msgid "Show widget information link"
+msgstr "Показать ссылку загрузки виджета"
+
+msgid "Displays global virus activity level."
+msgstr "Отображает глобальный уровень активности вируса."

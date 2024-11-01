@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-11 19:35+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "Δε βρέθηκαν μεταφράσεις για %s. Θα πρέπει να επιλέξετε άλλη γλώσσα από την παρακάτω λίστα. "
+
+msgid "Missing languages list. Check configuration file."
+msgstr "Λίστα γλωσσών που λείπουν. Ελέγξτε τον φάκελο ρυθμίσεων."
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "Δε μπορείτε να προβείτε σε αλλαγές των παρακάτω ρυθμίσεων μιας και έχει εντοπιστεί περισσότερο από ένα widget Δραστηριότητας Ιού."
+
+msgid "Virus Activity"
+msgstr "Δραστηριότητα Ιού"
+
+msgid "Virus Activity Level"
+msgstr "Επίπεδο Δραστηριότητας Ιού"
+
+msgid "Items:"
+msgstr "Στοιχεία:"
+
+msgid "Language:"
+msgstr "Γλώσσα:"
+
+msgid "Title:"
+msgstr "Τίτλος:"
+
+msgid "Low"
+msgstr "Χαμηλή"
+
+msgid "High"
+msgstr "Υψηλή"
+
+msgid "Advanced settings"
+msgstr "Ρυθμίσεις για Προχωρημένους"
+
+msgid "Enable no-follow links"
+msgstr "Ενεργοποίηση no-follow links"
+
+msgid "Get this widget"
+msgstr "Λήψη widget"
+
+msgid "Most Dangerous Today:"
+msgstr "Οι πιο Επικίνδυνοι Σήμερα:"
+
+msgid "Discovered/Renewed Today:"
+msgstr "Ανακαλύφθηκαν/Ανανεώθηκαν Σήμερα:"
+
+msgid "Increased"
+msgstr "Αυξημένη"
+
+msgid "Show widget information link"
+msgstr "Προβολή συνδέσμου πληροφοριών widget"
+
+msgid "Displays global virus activity level."
+msgstr "Προβολή επιπέδου παγκόσμιας δραστηριότητας ιού"

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-11 19:35+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "traductions pour %s n'ont pas été trouvés. Veuillez choisir autre langue dans la liste ci-dessous."
+
+msgid "Missing languages list. Check configuration file."
+msgstr "Liste langues manquantes. Vérifiez le fichier de configuration."
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "Vous ne pouvez pas modifier les paramètres ci-dessous depuis plus d'un virus est détecté d'instance widget Activité."
+
+msgid "Virus Activity"
+msgstr "L'activité de virus"
+
+msgid "Virus Activity Level"
+msgstr "niveau de l'activité de virus"
+
+msgid "Items:"
+msgstr "Articles:"
+
+msgid "Language:"
+msgstr "Langue:"
+
+msgid "Title:"
+msgstr "Titre:"
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "High"
+msgstr "Haute"
+
+msgid "Advanced settings"
+msgstr "Paramètres Avancés"
+
+msgid "Enable no-follow links"
+msgstr "Activer sans suivre les liens"
+
+msgid "Get this widget"
+msgstr "Obtenir ce Application"
+
+msgid "Most Dangerous Today:"
+msgstr "Plus dangereux aujourd'hui:"
+
+msgid "Discovered/Renewed Today:"
+msgstr "Découvert/renouvelée aujourd'hui:"
+
+msgid "Increased"
+msgstr "Augmenté"
+
+msgid "Show widget information link"
+msgstr "Afficher link d'information Application"

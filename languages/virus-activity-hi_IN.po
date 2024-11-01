@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virus Activity\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/virus-activity\n"
+"POT-Creation-Date: 2010-09-27 13:58+0000\n"
+"PO-Revision-Date: 2016-05-12 13:05+0200\n"
+"Last-Translator: dev <dev@virusactivity.com>\n"
+"Language-Team: dev <dev@virusactivity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+"X-Generator: Poedit 1.7.1\n"
+
+msgid "Translations for %s were not found. Please choose other language from the list below."
+msgstr "%s के लिए अनुवाद नहीं मिले । कृपया निम्नलिखित सूची में से दूसरी भाषा चुनें । "
+
+msgid "Missing languages list. Check configuration file."
+msgstr "अनुपस्थित भाषाओँ की सूची । विन्यास फाइल की जांच करें । "
+
+msgid "You cannot change settings below since more than one Virus Activity widget instance is detected."
+msgstr "आप नीचे दी गई सेटिंग्स को बदल नहीं सकते क्योंकि एक से अधिक वायरस गतिविधि की घटना का पता चला है । "
+
+msgid "Virus Activity"
+msgstr "वायरस गतिविधि"
+
+msgid "Virus Activity Level"
+msgstr "वायरस गतिविधि स्तर"
+
+msgid "Items:"
+msgstr "वस्तुयें"
+
+msgid "Language:"
+msgstr "भाषा"
+
+msgid "Title:"
+msgstr "शीर्षक"
+
+msgid "Low"
+msgstr "निम्न"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "High"
+msgstr "उच्च"
+
+msgid "Advanced settings"
+msgstr "उन्नत सेटिंग्स"
+
+msgid "Enable no-follow links"
+msgstr "अनुसरण न करने के लिंक को सक्षम करें"
+
+msgid "Get this widget"
+msgstr "इस विजेट को पायें "
+
+msgid "Most Dangerous Today:"
+msgstr "आज की तिथि में खतरनाक :"
+
+msgid "Discovered/Renewed Today:"
+msgstr "आज पता लगाया गया/नवीकृत किया गया :"
+
+msgid "Increased"
+msgstr "बढ़ा हुआ"
+
+msgid "Show widget information link"
+msgstr "विजेट जानकारी का लिंक दिखाएँ"
